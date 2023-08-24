@@ -1,6 +1,4 @@
-,name,lyrics
-0,"First Love / Late Spring
-","[Verse 1]
+[Verse 1]
 The black hole of the window where you sleep
 The night breeze carries something sweet, a peach tree
 Wild women don't get the blues, but I find that
@@ -12,7 +10,7 @@ Please don't say you love me
 胸がはち切れそうで
 One word from you and I would
 Jump off of this ledge I'm on, baby
-Tell me, ""Don't"", so I can crawl back in
+Tell me, "Don't", so I can crawl back in
 
 [Verse 2]
 And I was so young when I behaved twenty-five
@@ -26,18 +24,20 @@ Please don't say you love me
 胸がはち切れそうで
 One word from you and I would
 Jump off of this ledge I'm on, baby
-Tell me, ""Don't"", so I can crawl back in
+Tell me, "Don't", so I can crawl back in
 You might also like[Instrumental Bridge]
 
 [Chorus]
 One word from you and I would
 Jump off of this ledge I'm on, baby
-Tell me, ""Don't"", so I can crawl back in
+Tell me, "Don't", so I can crawl back in
 
 [Outro]
-Please, hurry, leave me, I can't breathe69Embed"
-1,"Washing Machine Heart
-","[Verse 1]
+Please, hurry, leave me, I can't breathe69Embed
+
+!STOP!
+
+[Verse 1]
 Toss your dirty shoes in my washing machine heart
 Baby, bang it up inside
 I'm not wearing my usual lipstick
@@ -63,9 +63,11 @@ Why not me? Why not me?
 
 [Chorus]
 Do-mi-ti
-Why not me? Why not me?You might also like66Embed"
-2,"I Bet on Losing Dogs
-","[Verse]
+Why not me? Why not me?You might also like66Embed
+
+!STOP!
+
+[Verse]
 My baby, my baby (Ooh-oh)
 You're my baby, say it to me (Ooh-oh, ooh-oh)
 Baby, my baby (Ooh, ooh-oh)
@@ -93,9 +95,11 @@ I always want you when I'm finally fine
 How you'd be over me looking in my eyes when I come
 Someone to watch me die, someone to watch me die
 You might also like[Outro]
-I bet on losing dogs (Did you get that?)49Embed"
-3,"Me and My Husband
-","[Verse 1]
+I bet on losing dogs (Did you get that?)49Embed
+
+!STOP!
+
+[Verse 1]
 I steal a few breaths from the world for a minute
 And then I'll be nothing forever
 And all of my memories
@@ -129,9 +133,11 @@ We're sticking together
 Me and my husband
 We're sticking together
 Me and my husband
-We are doing betterYou might also like25Embed"
-4,"Your Best American Girl
-","[Verse 1]
+We are doing betterYou might also like25Embed
+
+!STOP!
+
+[Verse 1]
 If I could, I'd be your little spoon
 And kiss your fingers forevermore
 But, big spoon, you have so much to do
@@ -164,9 +170,11 @@ I guess I couldn't help trying to be the best American girl
 
 [Outro]
 Your mother wouldn't approve of how my mother raised me
-But I do, I think I do47Embed"
-5,"Nobody
-","[Verse 1]
+But I do, I think I do47Embed
+
+!STOP!
+
+[Verse 1]
 My God, I'm so lonely, so I open the window
 To hear sounds of people, to hear sounds of people
 Venus, planet of love, was destroyed by global warming
@@ -201,9 +209,11 @@ Nobody, nobody, nobody
 
 [Outro]
 Nobody, nobody, nobody
-Nobody, no77Embed"
-6,"Francis Forever
-","[Verse 1]
+Nobody, no77Embed
+
+!STOP!
+
+[Verse 1]
 I don't know what to do without you
 I don't know where to put my hands
 I've been trying to lay my head down
@@ -231,9 +241,11 @@ Where you don't see me
 And autumn comes when you're not yet done
 With the summer passing by, but
 I don't think I could stand to be
-Where you don't see meYou might also like26Embed"
-7,"A Pearl
-","[Verse]
+Where you don't see meYou might also like26Embed
+
+!STOP!
+
+[Verse]
 You're growing tired of me
 You love me so hard and I still can't sleep
 You're growing tired of me
@@ -266,9 +278,11 @@ And it left a pearl in my head
 And I roll it around
 Every night, just to watch it glow
 Every night, baby, that's where I go
-Just to watch it glow29Embed"
-8,"Strawberry Blond
-","[Verse 1]
+Just to watch it glow29Embed
+
+!STOP!
+
+[Verse 1]
 I love everybody because I love you
 When you stood up, walked away barefoot
 And the grass where you lay left a bed in your shape
@@ -309,9 +323,11 @@ I love it when you look my way
 
 [Outro]
 Isaiah, Isaiah, Isaiah
-Isaiah, Isaiah, Isaiah20Embed"
-9,"Last Words of a Shooting Star
-","[Verse 1]
+Isaiah, Isaiah, Isaiah20Embed
+
+!STOP!
+
+[Verse 1]
 All of this turbulence wasn't forecasted
 Apologies from the intercom
 And I am relieved that I'd left my room tidy
@@ -342,9 +358,11 @@ So I am relieved that the turbulence wasn't forecasted
 I couldn't have changed anyways
 You might also like[Outro]
 I am relieved that I'd left my room tidy
-Goodbye36Embed"
-10,"Working for the Knife
-","[Verse 1]
+Goodbye36Embed
+
+!STOP!
+
+[Verse 1]
 I cry at the start of every movie
 I guess 'cause I wish I was making things, too
 But I'm working for the knife
@@ -369,9 +387,11 @@ That I'm living for the knife
 I always thought the choice was mine
 And I was right, but I just chose wrong
 I start the day lying and end with the truth
-That I'm dying for the knifeYou might also like42Embed"
-11,"Liquid Smooth
-","[Verse 1]
+That I'm dying for the knifeYou might also like42Embed
+
+!STOP!
+
+[Verse 1]
 I'm beautiful, I know 'cause it's the season
 But what am I to do with all this beauty?
 Biology, I am an organism, I'm chemical
@@ -402,9 +422,11 @@ You might also like[Chorus]
 I'm liquid smooth, come touch me, too
 And feel my skin is plump and full of life, I'm in my prime
 I'm liquid smooth, come touch me, too
-I'm at my highest peak, I'm ripe about to fall, capture me31Embed"
-12,"Class of 
-","[Verse 1]
+I'm at my highest peak, I'm ripe about to fall, capture me31Embed
+
+!STOP!
+
+[Verse 1]
 Mom, I'm tired
 Can I sleep in your house tonight?
 Mom, is it alright
@@ -424,9 +446,11 @@ For the other girls to pursue
 
 [Outro]
 Mom, am I still young?
-Can I dream for a few months more?You might also like19Embed"
-13,"A Burning Hill
-","[Verse 1]
+Can I dream for a few months more?You might also like19Embed
+
+!STOP!
+
+[Verse 1]
 Today, I will wear my white button-down
 I'm tired of wanting more, I think I'm finally worn
 For you have a way of promising things
@@ -445,9 +469,11 @@ And I'll go to work, and I'll go to sleep
 And I'll love the littler things
 
 [Outro]
-I'll love some littler thingsYou might also like27Embed"
-14,"I Want You
-","[Verse 1]
+I'll love some littler thingsYou might also like27Embed
+
+!STOP!
+
+[Verse 1]
 I want you
 I hold one card
 That I can't use
@@ -488,9 +514,11 @@ How I love you
 
 [Outro]
 I want you
-I want you16Embed"
-15,"Pink in the Night
-","[Verse 1]
+I want you16Embed
+
+!STOP!
+
+[Verse 1]
 I glow pink in the night in my room
 I've been blossoming alone over you
 And I hear my heart breaking tonight
@@ -502,9 +530,9 @@ It's like a summer shower
 
 [Chorus 1]
 With every drop of rain singing
-""I love you, I love you, I love you
+"I love you, I love you, I love you
 I love you, I love you, I love you
-I love you, I love you, I love you""
+I love you, I love you, I love you"
 
 [Verse 2]
 I could stare at your back all day
@@ -517,9 +545,11 @@ And I know I've kissed you before, but
 I didn't do it right
 Can I try again, try again, try again
 Try again, and again, and again
-And again, and again, and again?You might also like13Embed"
-16,"Townie
-","[Verse 1]
+And again, and again, and again?You might also like13Embed
+
+!STOP!
+
+[Verse 1]
 There's a party and we're all going
 And we're all growing up
 Somebody's driving and he will be drinking
@@ -565,9 +595,11 @@ I am not gonna be what my daddy wants me to be
 
 [Outro]
 I'm not gonna be what my daddy wants me to be
-I wanna be what my body wants me to be12Embed"
-17,"Brand New City
-","[Intro]
+I wanna be what my body wants me to be12Embed
+
+!STOP!
+
+[Intro]
 One, two
 Honey, what'd you take?
 
@@ -606,9 +638,11 @@ Honey, look at me
 Tell me what you took, what'd you take?
 Honey, what'd you take? What'd you take?
 Honey, look at me
-Tell me what you took, what'd you take?25Embed"
-18,"Two Slow Dancers
-","[Verse 1]
+Tell me what you took, what'd you take?25Embed
+
+!STOP!
+
+[Verse 1]
 Does it smell like a school gymnasium in here?
 It's funny how they're all the same
 It's funny how you always remember
@@ -639,9 +673,11 @@ To think that we could stay the same
 But we're two slow dancers, last ones out
 You might also like[Outro]
 We're two slow dancers, last ones out
-Two slow dancers, last ones out25Embed"
-19,"Crack Baby
-","[Verse 1]
+Two slow dancers, last ones out25Embed
+
+!STOP!
+
+[Verse 1]
 Down empty streets sniffing glue, me and you
 Blank, open eyes watch the moonflower bloom
 It's been a long, hard, twenty-year summer vacation
@@ -683,9 +719,11 @@ And you know that you need it bad
 With wild horses running through your hollow bones
 Wild horses running through your hollow bones
 Wild horses running through your hollow bones
-Wild horses running through your hollow bones23Embed"
-20,"Geyser
-","[Verse]
+Wild horses running through your hollow bones23Embed
+
+!STOP!
+
+[Verse]
 You're my number one, you're the one I want
 And I've turned down every hand
 That has beckoned me to come
@@ -707,9 +745,11 @@ It's not real, it's not real, it's not real enough
 But I will be the one you need
 The way I can't be without you
 I will be the one you need
-I just can't be without youYou might also like24Embed"
-21,"My Body’s Made of Crushed Little Stars
-","[Verse 1]
+I just can't be without youYou might also like24Embed
+
+!STOP!
+
+[Verse 1]
 I'm not doing anything
 I'm not doing anything
 My body's made of crushed little stars
@@ -744,9 +784,11 @@ You might also like[Chorus]
 Kill me, Jerusalem
 Kill me, Jerusalem
 Kill me, Jerusalem
-Go and kill me16Embed"
-22,"Goodbye, My Danish Sweetheart
-","[Verse 1]
+Go and kill me16Embed
+
+!STOP!
+
+[Verse 1]
 There's nobody better than you
 It took me a while till I knew
 But you knew from the start it was us, didn't you?
@@ -790,11 +832,13 @@ Tell them what you saw in me, and
 Not the way I used to be
 
 [Outro]
-'Cause there's nobody better than you24Embed"
-23,"Happy
-","[Verse 1]
+'Cause there's nobody better than you24Embed
+
+!STOP!
+
+[Verse 1]
 Happy came to visit me, he bought cookies on the way
-I poured him tea, and he told me, ""It'll all be okay""
+I poured him tea, and he told me, "It'll all be okay"
 Well, I told him I'd do anything to have him stay with me
 So he laid me down, and I felt happy come inside of me
 He laid me down, and I felt happy
@@ -809,7 +853,7 @@ I'll make no more use of it when there's no more you
 I was in the bathroom, I didn't hear him leave
 I locked the door behind him, and I turned around to see
 Ooh, all the cookie wrappers and the empty cups of tea
-Well, I sighed and mumbled to myself, ""Again, I have to clean""
+Well, I sighed and mumbled to myself, "Again, I have to clean"
 I sighed and mumbled to myself
 
 [Chorus]
@@ -820,9 +864,11 @@ I'll make no more use of it when there's no more you
 And if you're going, take the moon
 Then, maybe I will see you; in the night, I'll see you
 And when you go, take this heart
-I'll make no more use of it when there's no more you (Ooh)You might also like22Embed"
-24,"Once More to See You
-","[Verse]
+I'll make no more use of it when there's no more you (Ooh)You might also like22Embed
+
+!STOP!
+
+[Verse]
 In the rearview mirror I saw the setting sun on your neck
 And felt the taste of you bubble up inside me
 But with everybody watching us, our every move, we do have reputations
@@ -848,9 +894,11 @@ Then I wouldn't have to scream your name
 Atop of every roof in the city of my heart
 If I could see you (If I could see you), once more to see you
 You might also like[Outro]
-If I could see you, once more to see you20Embed"
-25,"Real Men
-","[Verse 1]
+If I could see you, once more to see you20Embed
+
+!STOP!
+
+[Verse 1]
 Real men don't need other people
 And real men suck it in
 Real men don't flinch or bleed in public
@@ -859,14 +907,14 @@ Oh, I think I'm a real man
 [Verse 2]
 Little boys cry and look around for comfort
 And always get what they want
-Little boys see toys and say ""I can take that!""
+Little boys see toys and say "I can take that!"
 Oh, you are my little boy
 
 [Chorus 1]
 Though honestly, sir
 All I wanna do is get naked in front of you
 So you can look me up and down and tell me
-""Well done, girl, you're looking good""
+"Well done, girl, you're looking good"
 
 [Verse 3]
 Real men keep cool in the face of a fire
@@ -887,9 +935,11 @@ So little boy, say you want me, 'cause, well, I can't take it
 
 [Outro]
 Go ahead
-Do it, do it21Embed"
-26,"Why Didn’t You Stop Me?
-","[Verse 1]
+Do it, do it21Embed
+
+!STOP!
+
+[Verse 1]
 I know that I ended it, but
 Why won't you chase after me?
 You know me better than I do
@@ -907,9 +957,11 @@ But I can't seem to find one
 Where you look how I remember?
 Look how I remember
 Look how I remember
-Paint it overYou might also like12Embed"
-27,"Stay Soft
-","[Verse 1]
+Paint it overYou might also like12Embed
+
+!STOP!
+
+[Verse 1]
 Fury, pure and silver
 You grip it tight inside
 Like a knife
@@ -956,9 +1008,11 @@ Only natural to harden up
 You stay soft, get beaten
 Only natural to harden up
 You stay soft, get eaten
-Only natural to harden up8Embed"
-28,"I Will
-","[Verse 1]
+Only natural to harden up8Embed
+
+!STOP!
+
+[Verse 1]
 I will take good care of you, I will take good care of you
 Everything you feel is good if you would only let you
 I will wash your hair at night and dry it off with care
@@ -989,9 +1043,11 @@ You might also like[Outro]
 I'll be brave, I'll be brave
 Doo, doo-doo, doo-doo-doo
 Doo-doo-doo, doo-doo-doo
-Doo doo doo, doo-doo-doo-doo-doo-doo18Embed"
-29,"Bug Like an Angel
-","[Verse 1: Mitski]
+Doo doo doo, doo-doo-doo-doo-doo-doo18Embed
+
+!STOP!
+
+[Verse 1: Mitski]
 There's a bug like an angel stuck to the bottom
 Of my glass, with a little bit left
 As I got older, I learned I'm a drinker
@@ -1024,18 +1080,20 @@ You might also like[Outro: Mitski & Choir]
 Ooh, ooh-ooh-ooh, ooh, ooh
 Ooh, ooh-ooh-ooh, ooh, ooh
 Ooh, ooh-ooh-ooh, ooh
-Ooh, ooh-ooh, ooh-ooh, ooh-ooh, ooh3Embed"
-30,"Old Friend
-","[Verse 1]
+Ooh, ooh-ooh, ooh-ooh, ooh-ooh, ooh3Embed
+
+!STOP!
+
+[Verse 1]
 We nearly drowned for such a silly thing
 Someone who loves me now better than you
 And that pretty friend is finally yours
 And, I'll be around on Sunday
 
 [Chorus]
-If you'll meet me at ""Blue Diner""
+If you'll meet me at "Blue Diner"
 I'll take coffee and talk about nothing
-Baby, at ""Blue Diner""
+Baby, at "Blue Diner"
 I'll take anything you wanna give me
 
 [Post-Chorus]
@@ -1048,18 +1106,20 @@ Every time I drive through the city where you're from
 I squeeze a little
 
 [Chorus]
-Meet me at ""Blue Diner""
+Meet me at "Blue Diner"
 I'll take coffee and talk about nothing
-Baby, at ""Blue Diner""
+Baby, at "Blue Diner"
 I'll take anything you wanna give me
-Baby, at ""Blue Diner""
+Baby, at "Blue Diner"
 I'll take coffee and talk about nothing
-Baby, ""Blue Diner""
+Baby, "Blue Diner"
 I'll take anything you wanna give me
 You might also like[Outro]
-Baby8Embed"
-31,"Drunk Walk Home
-","[Verse 1]
+Baby8Embed
+
+!STOP!
+
+[Verse 1]
 I will retire to the Salton Sea at the age of 23
 For I'm starting to learn I may never be free
 But though I may never be free
@@ -1075,9 +1135,11 @@ With every breath of the breeze
 
 [Outro]
 Aah-ah! Aah! Aah! Aah! Aah!
-Aah! Aah! Aah! Aah! Aah! Aah!You might also like14Embed"
-32,"Lonesome Love
-","[Verse 1]
+Aah! Aah! Aah! Aah! Aah! Aah!You might also like14Embed
+
+!STOP!
+
+[Verse 1]
 I call you, to see you again
 So I can win, and this can finally end
 Spend an hour on my makeup
@@ -1086,7 +1148,7 @@ To prove something
 [Verse 2]
 Walk up in my high heels
 All high and mighty
-And you say ""Hello""
+And you say "Hello"
 And I lose
 
 [Bridge]
@@ -1103,9 +1165,11 @@ Why am I lonely for lonesome love?
 Why am I lonely?
 
 [Outro]
-(Solid work)You might also like6Embed"
-33,"Fireworks
-","[Verse 1]
+(Solid work)You might also like6Embed
+
+!STOP!
+
+[Verse 1]
 One morning, this sadness will fossilize
 And I will forget how to cry
 I'll keep going to work, and you won't see a change
@@ -1136,9 +1200,11 @@ And I'll listen to the memories as they cry, cry, cry
 
 [Outro]
 Cry, cry, cry
-Cry, cry, cry21Embed"
-34,"Texas Reznikoff
-","[Verse 1]
+Cry, cry, cry21Embed
+
+!STOP!
+
+[Verse 1]
 It's beautiful out today
 I wish you could take me upstate
 To the little place you would tell me about
@@ -1159,14 +1225,16 @@ Doo, doo-doo, doo-doo, doo
 [Bridge]
 You keep your socks on in bed
 Keep our hearth warm
-""See the trees' shadows lie in black pools in the lawns""
+"See the trees' shadows lie in black pools in the lawns"
 You're the breeze in my Austin nights
 
 [Outro]
 You're the breeze in my Austin nights
-You're the breeze in my Austin nightsYou might also like10Embed"
-35,"The Only Heartbreaker
-","[Verse 1]
+You're the breeze in my Austin nightsYou might also like10Embed
+
+!STOP!
+
+[Verse 1]
 If you would just make one mistake
 What a relief that would be
 But I think for as long as we're together
@@ -1193,9 +1261,11 @@ I'll bе the only heartbreakеr
 (You forgive me)
 You might also like[Chorus]
 And make me the only heartbreaker
-So I'll be the only heartbreaker21Embed"
-36,"I Don’t Smoke
-","[Verse 1]
+So I'll be the only heartbreaker21Embed
+
+!STOP!
+
+[Verse 1]
 I don't smoke, except for when I'm missing you
 To remember your mouth, how it tasted true
 And I don't smoke, except for after I've held you, baby
@@ -1210,7 +1280,7 @@ You can lean on my arm as you break my heart
 [Verse 2]
 I'm what's left of when we swam under the moon
 Now the rest of my days are just waiting for when
-You've calmed down and tell me, ""I was meant for you""
+You've calmed down and tell me, "I was meant for you"
 Baby, being with you makes the flame burn good
 
 [Chorus]
@@ -1224,9 +1294,11 @@ Just don't leave me alone wondering where you are
 I am stronger than you give me credit for
 You might also like[Outro]
 If your hands need to break more than trinkets in your room
-You can lean on my arm as you break my heart12Embed"
-37,"Should’ve Been Me
-","[Verse 1]
+You can lean on my arm as you break my heart12Embed
+
+!STOP!
+
+[Verse 1]
 Well, I went through my list of friends and found
 I had no one to tell
 Of this overwhelming clean feeling
@@ -1265,9 +1337,11 @@ Relived all the ways you still want me
 I haven't given you what you need
 You wanted me, but couldn't reach me
 I'm sorry, it should've been me
-I'm sorry, it should've been me10Embed"
-38,"Bag of Bones
-","[Verse 1]
+I'm sorry, it should've been me10Embed
+
+!STOP!
+
+[Verse 1]
 I'm all used up, pretty boy
 Over and over again, my nail colors are wearing off
 See my hands, pretty boy
@@ -1304,9 +1378,11 @@ I'm tired of this searching, would you let me let go?
 And I can take a little bit more
 Let's shake this poet out of the beast
 Just a, just a little bit more
-Let's shake this poet out of the beast20Embed"
-39,"Love Me More
-","[Verse 1]
+Let's shake this poet out of the beast20Embed
+
+!STOP!
+
+[Verse 1]
 If I keep myself at home
 I won't make the same mistake
 That I made for fifteen years
@@ -1362,9 +1438,11 @@ Clean me up, clean me up
 Clean me up, clean me up
 Clean me up, clean me up
 I need you to love me more
-Love me more, love me more15Embed"
-40,"Jobless Monday
-","[Verse 1]
+Love me more, love me more15Embed
+
+!STOP!
+
+[Verse 1]
 It's a windy afternoon, can't afford to buy my food
 Or the drive I need to go further than they said I'd go
 
@@ -1389,13 +1467,15 @@ Take me out, take me out
 
 [Outro]
 Take me out, baby
-Take me out to-You might also like9Embed"
-41,"Thursday Girl
-","[Verse 1]
+Take me out to-You might also like9Embed
+
+!STOP!
+
+[Verse 1]
 Glory, glory, glory to the night
 That shows me what I am
 As I go to the party on my knees
-Saying ""Take it all, please""
+Saying "Take it all, please"
 
 [Chorus]
 And tell me no, tell me no
@@ -1422,9 +1502,11 @@ You might also like[Outro]
 Da-ra-ra-ra-ra-ra-ra-ra-ra-ra-ra
 Da-ra-ra-ra-ra-ra-ra-ra-ra-ra, da-ra-ra
 Da-ra-ra-ra-ra-ra-ra-ra-ra-ra, da-ra-ra-ra
-Da-ra-ra-ra-ra-ra-ra, da-ra12Embed"
-42,"Remember My Name
-","[Verse]
+Da-ra-ra-ra-ra-ra-ra, da-ra12Embed
+
+!STOP!
+
+[Verse]
 I gave too much of my heart tonight
 Can you come to where I'm staying
 And make some extra love?
@@ -1451,9 +1533,11 @@ I need something bigger than the sky
 Hold it in my arms and know it's mine
 Just how many stars will I need to hang around me
 To finally get somewhere I can be all done
-Somewhere like heavenYou might also like17Embed"
-43,"Dan the Dancer
-","[Verse 1]
+Somewhere like heavenYou might also like17Embed
+
+!STOP!
+
+[Verse 1]
 Dan had very long limbs from leading day to day
 Hanging onto a cliff that stretched him everyday
 And when she'd ask to hold hands
@@ -1483,9 +1567,11 @@ Shown his bedroom dancer to, shown his bedroom dancer to
 Shown his bedroom dancer to, shown his bedroom dancer to
 Shown his bedroom dancer to
 You might also like[Outro]
-And he would never tell you that it was his first time12Embed"
-44,"Carry Me Out
-","[Verse 1]
+And he would never tell you that it was his first time12Embed
+
+!STOP!
+
+[Verse 1]
 At night on the roof top, I untie my hair
 And watch from my plastic chair
 As my dark hair unleashes the night
@@ -1511,9 +1597,11 @@ Carry me out
 [Outro]
 At night on the roof top, I untie my hair
 And watch from my plastic chair
-As my dark hair unleashes the nightYou might also like11Embed"
-45,"Wife
-","[Verse 1]
+As my dark hair unleashes the nightYou might also like11Embed
+
+!STOP!
+
+[Verse 1]
 You're home, you're home, you're home to me
 So leave me, leave me, leave me a map
 I'm here at my cliff looking down
@@ -1539,9 +1627,11 @@ For I, even mine, even mine is unknown
 
 [Outro]
 So let me go towards the morning star
-With hope it won't disappearYou might also like20Embed"
-46,"Valentine, Texas
-","[Verse 1]
+With hope it won't disappearYou might also like20Embed
+
+!STOP!
+
+[Verse 1]
 Let's step carefully into the dark
 Once we're in, I'll remember my way around
 
@@ -1563,9 +1653,11 @@ Clouds look like mountains
 
 [Outro]
 Let me watch those mountains from underneath
-And maybe they'll finally float off of meYou might also like4Embed"
-47,"Pearl Diver
-","[Intro]
+And maybe they'll finally float off of meYou might also like4Embed
+
+!STOP!
+
+[Intro]
 Hmm...
 Hmm...
 
@@ -1606,9 +1698,11 @@ Oh, ooh
 
 [Outro]
 Treasure hunter, you are dead
-The light of the world is fading15Embed"
-48,"Because Dreaming Costs Money, My Dear
-","[Verse 1]
+The light of the world is fading15Embed
+
+!STOP!
+
+[Verse 1]
 I can still smell the fire
 Though I know it's long died out
 The smoke still hangs in my hair
@@ -1637,9 +1731,11 @@ You might also like[Post-Chorus]
 Don't dare regret anything
 Remember what you're here for, you
 Just play your violin
-We will manage somehow5Embed"
-49,"Square
-","[Verse 1]
+We will manage somehow5Embed
+
+!STOP!
+
+[Verse 1]
 Your room was square
 I once noticed from there
 In your bed, as you slept
@@ -1684,9 +1780,11 @@ And maybe you'd offered me all that I yearned for
 But I was still waiting for something to earn
 
 [Outro]
-Silly me, waiting15Embed"
-50,"Come Into the Water
-","[Verse 1]
+Silly me, waiting15Embed
+
+!STOP!
+
+[Verse 1]
 Come into the water
 Do you wanna be my baby?
 Are you waiting to touch me?
@@ -1703,9 +1801,11 @@ But would you tell me if you want me?
 I didn't know I had a dream
 I didn't know until I saw you
 So would you tell me if you want me?
-'Cause I can't move until you show meYou might also like5Embed"
-51,"Eric
-","[Verse 1]
+'Cause I can't move until you show meYou might also like5Embed
+
+!STOP!
+
+[Verse 1]
 You like control, well, I do too
 Take off my clothes and watch me move
 You can come closer, I'll let you hurt me
@@ -1732,9 +1832,11 @@ It cries a soft weep like mine
 I'll sell, I'll sell my whole to you
 What's my, what's my, what's my price?
 How 'bout, how 'bout just a part of you?
-'Cause I want, I want, I want, I want, I want, I want, I want, I want, I wantYou might also like23Embed"
-52,"A Loving Feeling
-","[Chorus]
+'Cause I want, I want, I want, I want, I want, I want, I want, I want, I wantYou might also like23Embed
+
+!STOP!
+
+[Chorus]
 What do you do with a loving feeling
 If the loving feeling makes you all alone?
 What do you do with a loving feeling
@@ -1762,9 +1864,11 @@ If the loving feeling makes you all alone?
 What do you do with a loving feeling
 If they only love you when you're all alone?
 You might also like[Outro]
-You only love me when we're all alone9Embed"
-53,"Heat Lightning
-","[Verse 1]
+You only love me when we're all alone9Embed
+
+!STOP!
+
+[Verse 1]
 Heat lightning running outside the window
 I've laid awake since one and now it's four o'clock
 Though I've held on, can't carry it much longer
@@ -1788,9 +1892,11 @@ Can I give it up to you? Would that be okay?
 There's nothing I can do, not much I can change
 I give it up to you, I surrender
 There's nothing I can do, not much I can change
-I give it up to you, I surrenderYou might also like17Embed"
-54,"Shame
-","[Verse 1]
+I give it up to you, I surrenderYou might also like17Embed
+
+!STOP!
+
+[Verse 1]
 It feels so good
 It feels so good
 And right outside the door nobody knows
@@ -1807,16 +1913,18 @@ Feels so good
 It feels so good
 
 [Outro]
-And I don't need anything other than youYou might also like3Embed"
-55,"Blue Light
-","[Verse]
+And I don't need anything other than youYou might also like3Embed
+
+!STOP!
+
+[Verse]
 Somebody kiss me, I'm going crazy
 I'm walking 'round the house naked silver in the night
 
 [Chorus]
-Singing, ""Doo-doo, doo-doo-doo-doo
+Singing, "Doo-doo, doo-doo-doo-doo
 Doo-doo-doo, doo-doo-doo-doo
-Doo-doo-doo-doo, doo-doo-doo-doo""
+Doo-doo-doo-doo, doo-doo-doo-doo"
 Out there, I'm a sharp knife
 [Bridge]
 Are you that blue light? Are you that blue light?
@@ -1825,17 +1933,19 @@ Are you that blue light? Are you?
 [Chorus]
 Doo-doo-doo-doo-doo, doo-doo-doo-doo-doo
 Doo-doo-doo-doo-doo, doo-doo, doo doo-doo
-Doo (Doo doo-doo-doo), doo-doo-doo-doo, doo-dooYou might also like10Embed"
-56,"A Horse Named Cold Air
-","[Verse]
+Doo (Doo doo-doo-doo), doo-doo-doo-doo, doo-dooYou might also like10Embed
+
+!STOP!
+
+[Verse]
 A lake with no fish
 Is the heart of a horse
-Named ""Cold Air"", who, when young
+Named "Cold Air", who, when young
 Would run like a storm
 
 [Chorus]
-They would say, ""Ooh
-Ooh-hoo"" (Ooh-hoo)
+They would say, "Ooh
+Ooh-hoo" (Ooh-hoo)
 
 [Verse 2]
 I thought I'd traveled a long way
@@ -1843,9 +1953,11 @@ But I had circled the same old sin
 
 [Outro]
 Ooh, ooh-hoo, ooh
-Ooh-hoo, ooh-hooYou might also like7Embed"
-57,"That’s Our Lamp
-","[Verse 1]
+Ooh-hoo, ooh-hooYou might also like7Embed
+
+!STOP!
+
+[Verse 1]
 We fought again, I ran out the apartment
 You say you love me, I believe you do
 But I walk down and up and down
@@ -1873,9 +1985,11 @@ Ooh
 Thinking that's where you loved me, that's where you loved me
 That's where you loved mе, that's where you loved mе
 That's where you loved me, that's where you loved me
-That's where you loved me, that's where you loved meYou might also like6Embed"
-58,"Humpty
-","[Verse 1]
+That's where you loved me, that's where you loved meYou might also like6Embed
+
+!STOP!
+
+[Verse 1]
 I'll live in the bathtub
 It's cool and clean
 It's smooth and it's steady
@@ -1916,9 +2030,11 @@ Too frail for me to touch
 
 [Outro]
 Humpty Dumpty, it's much too much
-All the eggshells are on the ground9Embed"
-59,"There’s Nothing Left for You
-","[Verse 1]
+All the eggshells are on the ground9Embed
+
+!STOP!
+
+[Verse 1]
 There's nothing left for you, nothing in this room
 Try and go outside, nothing waits for you
 You had it once before, not anymore
@@ -1940,9 +2056,11 @@ But you're the only one
 She's counting on
 
 [Outro]
-There's nothing left for youYou might also like3Embed"
-60,"I Guess
-","[Verse 1]
+There's nothing left for youYou might also like3Embed
+
+!STOP!
+
+[Verse 1]
 I guess, I guess, I guess this is the end
 I'll have to learn to be somebody else
 It’s been you and me since before I was me
@@ -1952,20 +2070,22 @@ Without you, I don't yet know quite how to live
 If I could keep anything of you
 I would keep just this quiet after you
 It's still as a pond I am staring into
-From here, I can say, ""Thank you""
+From here, I can say, "Thank you"
 
 [Outro]
-From here, I can tell you, ""Thank you""You might also like10Embed"
-61,"Everyone
-","[Verse 1]
+From here, I can tell you, "Thank you"You might also like10Embed
+
+!STOP!
+
+[Verse 1]
 Everyone, all of them
-Everyone said, ""Don't go that way""
+Everyone said, "Don't go that way"
 So, of course, to that, I said
-""I think I'll go that way""
+"I think I'll go that way"
 
 [Chorus 1]
 And I left the door open to the dark
-I said, ""Come in, come in, whatever you are""
+I said, "Come in, come in, whatever you are"
 But it didn't want me yet
 
 [Verse 2]
@@ -1974,7 +2094,7 @@ After some big hand turns out the light
 
 [Chorus 2]
 And I opened my arms wide to the dark
-I said, ""Take it all, whatever you want""
+I said, "Take it all, whatever you want"
 I didn't know that I was young
 
 [Bridge]
@@ -1983,9 +2103,11 @@ I didn't know what it would take
 
 [Outro]
 Sometimes I think I am free
-Until I find I'm back in line againYou might also like7Embed"
-62,"Abbey
-","[Verse 1]
+Until I find I'm back in line againYou might also like7Embed
+
+!STOP!
+
+[Verse 1]
 I am hungry
 I have been hungry
 I was born hungry
@@ -2014,10 +2136,12 @@ You might also like[Chorus 2]
 There is a light, I feel it in me
 But only, it seems, when the dark surrounds me
 There is a dream and it sleeps in me
-To awake in the night, crying ""Set me free""
-And I awake every night, crying ""Set me free""10Embed"
-63,"Circle
-","There's a lie that I told to you
+To awake in the night, crying "Set me free"
+And I awake every night, crying "Set me free"10Embed
+
+!STOP!
+
+There's a lie that I told to you
 That now I can't tell the truth
 And it ate me inside, so one soft drunken night
 I slept with a man you knew
@@ -2044,9 +2168,11 @@ And that was so long ago, now the tree it has grown
 And nobody knows my lover is buried underground
 Nobody knows my lover is buried underground
 Nobody knows my lover is buried underground
-You might also likeThere's a lie that I told to you7Embed"
-64,"Cop Car
-","I get mean when I'm nervous like a bad dog
+You might also likeThere's a lie that I told to you7Embed
+
+!STOP!
+
+I get mean when I'm nervous like a bad dog
 I get mean when I'm nervous like a bad dog
 I want to jump into blue water
 And I miss riding horses, I miss running fast
@@ -2066,9 +2192,11 @@ I will never die, I will never die
 
 I've preemptively blocked all the exits
 I've preemptively blocked all the exits
-So I will burn in this movie theater, heyYou might also like10Embed"
-65,"Door
-","[Verse 1]
+So I will burn in this movie theater, heyYou might also like10Embed
+
+!STOP!
+
+[Verse 1]
 There is a door to me
 I've never seen it
 Sometimes I get closer to it
@@ -2086,9 +2214,11 @@ But at least I finally found it
 Cried out a creak and opened
 To show me what's beyond it
 A hopeless violence
-I named it loveYou might also like12Embed"
-66,"Glide (Lily Chou-Chou)
-","[Verse 1]
+I named it loveYou might also like12Embed
+
+!STOP!
+
+[Verse 1]
 I wanna be, I wanna be
 I wanna be just like a melody
 Just like a simple sound like in harmony
@@ -2124,4 +2254,7 @@ Just like a simple sound like in harmony
 
 [Outro]
 I wanna be just like a melody
-Just like a simple sound like in harmony1Embed"
+Just like a simple sound like in harmony1Embed
+
+!STOP!
+
